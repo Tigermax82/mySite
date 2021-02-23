@@ -96,7 +96,7 @@ main{
   box-sizing: border-box;
   color: blue;
   border-style:solid;
-  border-color:red;
+  border-color:black;
   border-radius: 20px 0 30px 0;
 }
 
